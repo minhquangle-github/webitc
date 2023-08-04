@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.uneti-img{
+    border-radius: 50%;
+    width: 150px;
+
+}
+.ueti-contain{
+    display: flex;
+    justify-content: center;
+}
+ ul .nav-item .nav-link{
+    border: 1px solid;
+    margin-left: 100px;
+   border-radius: 32% 68% 55% 45% / 31% 30% 70% 69% ;
+   display: flex;
+   justify-content: space-between;
+
+}
+
+  
+   
+
+
+ 
